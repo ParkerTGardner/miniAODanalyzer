@@ -1,0 +1,10 @@
+RecoHIHiTrackingTest_PACKAGE := self/src/RecoHI/HiTracking/test
+testGeneralTracks_PACKAGE := self/src/FastSimulation/Tracking/test
+RecoLocalTrackerSubCollectionProducers_PACKAGE := self/src/RecoLocalTracker/SubCollectionProducers/src
+FastSimulationTracking_PACKAGE := self/src/FastSimulation/Tracking/src
+RecoLocalTrackerSubCollectionProducersTestPlugins_PACKAGE := self/src/RecoLocalTracker/SubCollectionProducers/test
+FastSimulationTrackingPlugins_PACKAGE := self/src/FastSimulation/Tracking/plugins
+RecoHIHiTracking_PACKAGE := self/src/RecoHI/HiTracking/src
+RecoHIHiTrackingPlugins_PACKAGE := self/src/RecoHI/HiTracking/plugins
+RecoHIHiMuonAlgosPlugins_PACKAGE := self/src/RecoHI/HiMuonAlgos/plugins
+FWCoreVersion_PACKAGE := self/src/FWCore/Version/src

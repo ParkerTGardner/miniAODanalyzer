@@ -1,0 +1,3 @@
+ALL_COMMONRULES += src_HeavyIonsAnalysis_TrackAnalysis_test
+src_HeavyIonsAnalysis_TrackAnalysis_test_parent := HeavyIonsAnalysis/TrackAnalysis
+src_HeavyIonsAnalysis_TrackAnalysis_test_INIT_FUNC += $$(eval $$(call CommonProductRules,src_HeavyIonsAnalysis_TrackAnalysis_test,src/HeavyIonsAnalysis/TrackAnalysis/test,TEST))
